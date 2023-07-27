@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "ALX"
+C-x C-s
+y
+c-g
